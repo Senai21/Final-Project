@@ -1,0 +1,146 @@
+body {
+    background-color: lightblue;
+    padding: 3%;
+}
+
+header {
+    background-color: #050505;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+#tag-line {
+    text-align: center;
+}
+
+#tag-line {
+    text-align: center;
+}
+
+#logo {
+    font-size: 55px;
+}
+
+.soccer {
+    width: 500px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.soccercontent {
+    display: inline-block;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.videos {
+    justify-content: space-between;
+    display: flex;
+}
+
+.vids {
+    position: relative;
+    right: -1600px;
+    border: none;
+    background-color: lightblue;
+    font-size: 20px;
+}
+
+.about {
+    position: relative;
+    left: -175px;
+    border: none;
+    background-color: lightblue;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.contact {
+    position: relative;
+    left: -175px;
+    border: none;
+    background-color: lightblue;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.service {
+    position: relative;
+    left: -175px;
+    border: none;
+    background-color: lightblue;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.Welcome {
+    position: relative;
+    border: none;
+    background-color: lightblue;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.soccerme {
+    display: inline-block;
+    width: 45%;
+    padding-top: 100px;
+}
+
+.Senai {
+    text-align: center;
+    font-size: 50px;
+}
+
+.box {
+    width: 100%;
+    text-align: center;
+    font-size: 25px;
+}
+.tophomeimages {
+    height: 550px;
+    width: 870px;
+}
+.bottomhomeimages {
+    height: 550px;
+    width: 870px;
+}
+.Servicetitle {
+    text-align: center;
+    font-size: 50px; 
+}
+
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px;  
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 20px; 
+    resize: vertical 
+  }
+  
+  input[type=submit] {
+    background-color: #04AA6D;
+    position: relative;
+    bottom: -250px;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+    position: relative; 
+  }
+  
+  .container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    height: 800px;
+  }
